@@ -63,10 +63,3 @@ Ce dépôt contient :
 - Ce type de défaut peut être détecté **automatiquement** avec une surveillance temps réel.
 
 ---
-
-## 📎 Utilisation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/ton-nom/tp-moteur-manque-phase.git
-   cd tp-moteur-manque-phase
